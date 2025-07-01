@@ -12,3 +12,4 @@ All model inputs (today’s spot price, forward dividend yield, three-month Trea
 
 Dependencies: yfinance, pandas_market_calendars, matplotlib, numpy, math, warnings
 Running the code: python American-Option-Pricing.py
+
